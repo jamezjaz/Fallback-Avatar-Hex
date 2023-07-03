@@ -1,6 +1,6 @@
 {
   "name": "fallback-avatar-hex",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "A hexagonal fallback avatar component for users without profile photos. Users without avatars or profile photos will dynamically have the first letters of their names, capitalized, and set as their default avatar(s) with unique back ground color(s).",
   "license": "MIT",
   "repository": "https://github.com/jamezjaz/Fallback-Avatar-Hex",

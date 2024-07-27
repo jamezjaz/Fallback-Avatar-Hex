@@ -7,6 +7,9 @@
 ## Preview
 ![fallback-avatar-hex](https://github.com/user-attachments/assets/3680c0cf-7cd2-4e92-8758-07ab474e6abb)
 
+## Live Demo
+Check out the demo [here](https://www.youtube.com/watch?v=lMfC4J-Ypjc)
+
 ## Prerequisites
 - node
 - npm

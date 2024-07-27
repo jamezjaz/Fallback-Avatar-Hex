@@ -4,6 +4,9 @@
 
 [![NPM](https://img.shields.io/npm/v/hex-fallback-avatar.svg)](https://www.npmjs.com/package/hex-fallback-avatar) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+## Preview
+![fallback-avatar-hex](https://github.com/user-attachments/assets/3680c0cf-7cd2-4e92-8758-07ab474e6abb)
+
 ## Prerequisites
 - node
 - npm

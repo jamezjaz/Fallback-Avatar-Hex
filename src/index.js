@@ -14,7 +14,7 @@ const generateColorFromName = (name) => {
   let hash = 5381;
   for (let i = 0; i < name?.length; i++) {
     hash = (hash * 33) + name?.charCodeAt(i);
-  }
+  };
   const r = (hash & 0xFF0000) >> 16;
   const g = (hash & 0x00FF00) >> 8;
   const b = hash & 0x0000FF;
